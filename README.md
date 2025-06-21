@@ -27,6 +27,11 @@ This project uses machine learning to predict students' final grades based on va
 
 ---
 
+##Live Demo
+https://student-grade-predictor-fbwwygohf8yjaq48v3alhy.streamlit.app/
+
+---
+
 ## 🚀 How to Run This Project
 
 ### 1. Clone the Repository
